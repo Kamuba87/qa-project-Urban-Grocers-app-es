@@ -28,4 +28,3 @@ pruebas a verificar
 
 9	Se ha pasado un tipo de parámetro diferente (número): kit_body = { "name": 123 }	Código de respuesta: 400
 
-

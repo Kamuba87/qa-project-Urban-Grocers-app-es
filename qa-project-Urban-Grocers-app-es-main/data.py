@@ -40,4 +40,3 @@ kit_body_class = {
     "prueba_kit9": {"name": 123}
 }
 
-

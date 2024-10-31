@@ -46,4 +46,3 @@ def test_create_user_number_type_first_name_get_error_response():
     sender_stand_request.negative_assert_code_400(data.kit_body_class['prueba_kit9'])
 
 
-
