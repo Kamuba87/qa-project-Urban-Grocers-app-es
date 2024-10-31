@@ -38,3 +38,4 @@ def negative_assert_code_400(kit_body):
     assert response.json()["code"] == 400
     assert response.json()["message"] == "No se han aprobado todos los parámetros requeridos"
 
+

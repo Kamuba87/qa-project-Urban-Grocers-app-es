@@ -3,3 +3,4 @@ CREATE_USER_PATH =  "/api/v1/users/" # Almacena la ruta para crear un usuario o 
 CREATE_KITS_PATH = "/api/v1/kits/" # Almacena la ruta para crear un kit en esta variable
 
 
+
